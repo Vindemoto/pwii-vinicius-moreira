@@ -5,7 +5,7 @@ Clonar Github
 
 >git config --global user.name "Vinicius"  
 >git config --global user.email mt.vinicius18@gmail.com  
->git clone https://github.com/Vindemoto/pwii-vinicius-moreira
+>git clone https://github.com/Vindemoto/pwii-vinicius-moreira  
 >cd pwii-vinicius-moreira  
 >code .  
 
