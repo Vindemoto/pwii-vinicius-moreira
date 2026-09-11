@@ -3,11 +3,11 @@ Aulas de Programação Web II com André
 
 Clonar Github
 
-git config --global user.name "Vinicius"  
-git config --global user.email mt.vinicius18@gmail.com  
-git clone https://github.com/Vindemoto/pami-vinicius-moreira.git  
-cd pami-vinicius-moreira  
-code .  
+>git config --global user.name "Vinicius"  
+>git config --global user.email mt.vinicius18@gmail.com  
+>git clone https://github.com/Vindemoto/pwii-vinicius-moreira
+>cd pwii-vinicius-moreira  
+>code .  
 
 Acessar a os index criados
 1. Acessar Windows (C:) > xampp > htdocs
