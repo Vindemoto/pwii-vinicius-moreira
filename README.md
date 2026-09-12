@@ -3,7 +3,7 @@ Aulas de Programação Web II com André
 
 Baixar Github
 
->Clicar no botão azul < > Code  
+>Clicar no botão azul <> Code  
 >Download ZIP  
 >Extrair na Área de trabalho  
 >Recortar APENAS a pasta php_aulas  
