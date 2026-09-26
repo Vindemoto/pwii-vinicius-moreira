@@ -9,3 +9,6 @@ Baixar Github
 >Recortar APENAS a pasta php_aulas  
 >Colar em Windows (C:) > xampp > htdocs  
 >Acessar no Chrome localhost/php_aulas/  
+
+Site de logos\
+https://www.streamlinehq.com/icons/logos-solid
